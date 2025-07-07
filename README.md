@@ -11,7 +11,7 @@ The added directory "ToolBoxes" is required to be included in the path.
 The mentioned data in the paper is added in each subdirectory 
 
 # Code execution flow
- First Run Data_pre_process.m for processing the data for artifacts and noise. The processed data is then utilised by the file Solv_extr_*.m. The best of solution is ensembled over N iteratios. If best solution is not converged properly, re-run again.
+First Run Data_pre_process.m for processing the data for artifacts and noise. The processed data is then utilised by the file Solv_extr_*.m. The best of solution is ensembled over N iteratios. If best solution is not converged properly, re-run again or tune the paramters.
 All other files are supporting fuction to execute these.
 
 
