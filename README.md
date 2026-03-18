@@ -18,4 +18,13 @@ For Bitumen data, run solv_extrac_v0.m file only.
 
 # Reference
 If you find this repository useful in your research, please consider citing the following papers:
-under review (will be updated soon)
+@article{singh2025scalable,
+  title={A Scalable and Generalizable Method to Minimize Solvent Interference in Identification of Chemical Reaction Networks from Spectroscopic Data},
+  author={Singh, Kuldeep and Srinivasan, Karthik and Sun, Ziting and Liu, Jing and Prasad, Vinay},
+  journal={Journal of Chemical Information and Modeling},
+  volume={65},
+  number={19},
+  pages={10068--10092},
+  year={2025},
+  publisher={ACS Publications}
+}
